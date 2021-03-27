@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij08&layout=compact)](https://github.com/Kshitij08/github-readme-stats)
 
-<p align="center">
-  <img src="http://leereilly.net/leereilly/contributions.png" width="75%"><br>
-  <img src="http://leereilly.net/leereilly/gitris.gif" width="300">
-  <img src="http://hits.dwyl.com/leereilly/leereilly.svg" width="0">
-</div>
+![GitHub metrics](https://metrics.lecoq.io/Kshitij08)  
+
+![Profile views](https://gpvc.arturio.dev/Kshitij08)  
