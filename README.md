@@ -6,6 +6,6 @@
 - You can find more about me on my Portfolio Website: https://kshitij-gajapure.webflow.io/
 
 
-![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitij08&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitij08&show_icons=true&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij08&layout=compact)](https://github.com/Kshitij08/github-readme-stats)
