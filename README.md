@@ -1,8 +1,10 @@
-### Hi, I’m Kshitij, a Game Developer, Designer, and Researcher! 👋
+### Hi, I’m Kshitij ,an award-winning Game Producer & Designer 👋
 
-- I am a Senior Undergraduate at IIT Gandhinagar (India) pursuing a major in Computer Science and Engineering with dual minors in Design and Cognitive Science. Using my diverse background, I’m able to design and develop Serious Games that are able to maximize the fun and learning experience of the players.
-- I have over 4 years of experience in making games and over 2 years of remote work experience with teams based in New York and Saskatchewan.
+- From debuting with a top-down shooter on Google Play in 2017 to spearheading Stellar Galactics, a $15M blockchain gaming venture, as its Interim CEO, my gaming career has been a thrilling ride.
 
+- In my career, I've excelled as a Game Producer, Game Designer, Game Programmer, UX Designer, and 3D Artist. I’ve even ventured into the business realm as a Gaming Investment Analyst for Stellaris VP, a $225M Seed/Series A VC firm.
+
+- My portfolio includes 11 mobile games, 3 browser titles, a PC/VR title, a VR short film, and an IRL Arcade game across USA, Canada, Germany, Netherlands, Dubai, and India.
 - You can find more about me on my Portfolio Website: https://kshitij-gajapure.webflow.io/
 
 
