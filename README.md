@@ -1,4 +1,4 @@
-### Hi, I’m Kshitij ,an award-winning Game Producer & Designer 👋
+### Hi, I’m Kshitij, an award-winning Game Producer & Designer 👋
 
 - From debuting with a top-down shooter on Google Play in 2017 to spearheading Stellar Galactics, a $15M blockchain gaming venture, as its Interim CEO, my gaming career has been a thrilling ride.
 
