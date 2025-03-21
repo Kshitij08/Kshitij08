@@ -6,7 +6,7 @@
 
 - My portfolio includes 11 mobile games, 3 browser titles, a PC/VR title, a VR short film, and an IRL Arcade game across USA, Canada, Germany, Netherlands, Dubai, and India.
 
-- Notable achievements include winning the MIT Reality Hack, Guest lecturer at Parsons School of Design, IGDA Foundation Scholarship for GDC, and MassDiGi XP, and co-authoring a research paper with 24 citations.
+- Notable achievements include winning the MIT Reality Hack, Guest lectured at Parsons School of Design, IGDA Foundation Scholarship for GDC, and MassDiGi XP, and co-authoring a research paper with 40 citations.
 
 - You can find more about me on my Portfolio Website: https://kshitij-gajapure.webflow.io/
 
