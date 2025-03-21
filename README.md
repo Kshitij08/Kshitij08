@@ -8,7 +8,7 @@
 
 - Notable achievements include winning the MIT Reality Hack, Guest lectured at Parsons School of Design, IGDA Foundation Scholarship for GDC, and MassDiGi XP, and co-authoring a research paper with 40 citations.
 
-- You can find more about me on my Portfolio Website: https://kshitij-gajapure.webflow.io/
+- You can find more about me on my Portfolio Website: https://www.kshitijingames.com/
 
 
 ![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kshitij08&show_icons=true&count_private=true&include_all_commits=true)
